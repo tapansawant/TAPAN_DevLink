@@ -349,6 +349,21 @@ button {
   text-align: center;
 }
 
+.text-centre {
+  text-align: center;
+}
+
+.footer {
+  background-color: #0c1c229c;
+  color: rgb(243, 242, 237);
+}
+
+.wrapper {
+  padding: 1%;
+  width: 70%;
+  margin: 0 auto;
+}
+
 /* Profiles Page */
 .profile {
   display: grid;
@@ -500,7 +515,7 @@ button {
 
   /* Text Styles */
   .x-large {
-    font-size: 3rem;
+    font-size: 2rem;
   }
 
   .large {
@@ -508,7 +523,7 @@ button {
   }
 
   .lead {
-    font-size: 1rem;
+    font-size: 0.8rem;
   }
 
   /* Navbar */
