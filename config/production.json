@@ -1,9 +1,6 @@
 {
     "mongoURI": "mongodb://tapan45:tapan45@devlink-shard-00-00.k97re.mongodb.net:27017,devlink-shard-00-01.k97re.mongodb.net:27017,devlink-shard-00-02.k97re.mongodb.net:27017/DevLink?ssl=true&replicaSet=atlas-23g200-shard-0&authSource=admin&retryWrites=true&w=majority",
     "jwtSecret": "mysecrettoken" ,
-    "githubClientId": "b102a95cbf42dd10a755",
-    "githubSecret": "def5ea5e44de2e1dc049718d0748399ee83eeb3e",
-  
     "githubToken": "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"
 }
  
